@@ -1,0 +1,23 @@
+html {
+    background: url(football-pitch.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: scroll;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+   
+
+  }
+.w3-button
+{
+   margin: auto;
+    margin-top:25%;
+    display:block;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+
+}
+
